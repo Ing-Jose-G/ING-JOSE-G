@@ -5,7 +5,7 @@
 
 [![Twitter: Jose G](https://img.shields.io/twitter/follow/JoseG?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: Jose G](https://img.shields.io/badge/-JoseG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-gregorio-arevalo-cantillo-27aaa7225/)](https://www.linkedin.com/in/jose-gregorio-arevalo-cantillo-27aaa7225/)
-[![GitHub Jose G](https://img.shields.io/github/followers/JoseG?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Jose G](https://img.shields.io/github/followers/JoseG?label=follow&style=social)](https://github.com/Ing-Jose-G)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
