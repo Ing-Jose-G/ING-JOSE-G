@@ -9,16 +9,28 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+### ✔️ I'm currently learning and improving
+- HTML5 (web development).
+- CSS (web development).
+- Javascript (web development).
+- Kotlin (Android development).
+- MySQL, SQL, PostgreSQL.
+  
+### 😍 What i like to do:
+- I like challenges, learning, helping, sharing and living every day as if it were the last!!!
+
+### 💡 Goals for 2024:
+- Being able to get my first job as a Software Engineer or Web developer.
+- Continue learning and keeping up to date with the continuous updates of the software industry.
+- Learn about mobile development.
+- Grow Personally and Professionally.
+
+### ⚡ Relevant achievement
+- 
+
+### 🛠 Interested in:
+- fronted (web development), backend (web development), databases, mobile development.
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
