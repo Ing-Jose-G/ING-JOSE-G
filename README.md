@@ -10,10 +10,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### ✔️ I'm currently learning and improving
-- HTML5 (web development).
-- CSS (web development).
-- Javascript (web development).
-- Kotlin (Android development).
+- HTML5 (Web Development).
+- CSS (Web Development).
+- Javascript (Web Development).
+- Kotlin (Android Development).
 - MySQL, SQL, PostgreSQL.
   
 ### 😍 What i like to do:
@@ -29,7 +29,7 @@
 - 
 
 ### 🛠 Interested in:
-- fronted (web development), backend (web development), databases, mobile development.
+- fronted (Web Development), backend (Web Development), databases, Mobile Development.
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
