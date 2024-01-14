@@ -3,7 +3,7 @@
 <p><em>Software Engineer Graduated From The <a href="https://unicartagena.edu.co/">Universidad de Cartagena</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>A good software developer works with discipline and perseverance from day one. (Omar Bradley) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Jose G](https://img.shields.io/twitter/follow/JoseG?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: Jose G](https://img.shields.io/twitter/follow/JoseG?style=social)](https://twitter.com/arevalocantillo)
 [![Linkedin: Jose G](https://img.shields.io/badge/-JoseG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-gregorio-arevalo-cantillo-27aaa7225/)](https://www.linkedin.com/in/jose-gregorio-arevalo-cantillo-27aaa7225/)
 [![GitHub Jose G](https://img.shields.io/github/followers/JoseG?label=follow&style=social)](https://github.com/Ing-Jose-G)
 
