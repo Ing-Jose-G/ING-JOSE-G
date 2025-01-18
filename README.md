@@ -13,16 +13,14 @@
 - HTML5 (Web Development).
 - CSS (Web Development).
 - Javascript (Web Development).
-- Kotlin (Android Development).
 - MySQL, SQL, PostgreSQL.
   
 ### 😍 What i like to do:
 - I like challenges, learning, helping, sharing and living every day as if it were the last!!!
 
-### 💡 Goals for 2024:
+### 💡 Goals for 2025:
 - Being able to get my first job as a Software Engineer or Web developer.
 - Continue learning and keeping up to date with the continuous updates of the software industry.
-- Learn about mobile development.
 - Grow Personally and Professionally.
 
 ### ⚡ Relevant achievement
